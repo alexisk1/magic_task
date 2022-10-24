@@ -1,6 +1,9 @@
 # Magic Interview Task Solution
 
-This is the Readme file for Alexi's solution to the Magic Interview Task.
+This is the Readme file for Alexi's solution to the Magic Interview Task. 
+
+You will find an introduction of myself and the answers to the interview questions in the following video link:
+[Magic Interview Answers](https://youtu.be/Ehs29tKvr7w)
 
 ## Introduction
 
