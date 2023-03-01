@@ -69,7 +69,7 @@ Run Example:
   bazel-bin/mediapipe/examples/desktop/hand_wave_counter/hand_wave_counter  --calculator_graph_config_file=mediapipe/graphs/hand_wave_counter/hand_wave_counter.pbtxt --input_video_path=/home/alex/Downloads/B.mp4 --output_video_path=./B_out.mp4
 
 
-## Solution A  - Hand Wave Counter KF - Kalman Filter
+## Solution B  - Hand Wave Counter KF - Kalman Filter
 
 Here, we try to pass the angle and the angular velocity (momentum) through a Kalman Filter. Using a better angle and angular velocity we can define better when the hand reaches the initial position with the initial velocity direction (not value, we only care about the direction).
 
